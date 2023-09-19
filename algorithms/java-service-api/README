@@ -1,0 +1,19 @@
+
+# what
+
+# why
+
+# where
+
+# todo
+- criar um struct record que tem os dados m e r
+    - implementar calculo de resto conforme logica por fatoracao dentro while
+- avaliar se consigo testar do replit direto na web
+    https://replit.com/@faelcavalcanti/PoliticalSweetEquation
+    https://replit.com/new/java10
+    https://vscode.dev/
+
+- implementar testes unitarios como exemplos
+- tentar imprimir um report com resultado dos testes
+
+- done
